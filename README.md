@@ -15,7 +15,7 @@ Features:
 
 -dynamic prompt 
 
--complicated commands ,like grep str <a.txt>b.txt
+-complicated commands ,like: grep str <a.txt>b.txt
 
 -piping
 
