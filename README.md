@@ -5,7 +5,7 @@ StupidShell
 
 ABSTRACT
 ------------------------------------------------------------------------
-A simple implementation of a shell in C , a DIY shell . It is a part of a special on my website(www.tomorrow.wiki/archieves/tag/stupidshell), which demonstrates briefly how a shell works .
+A simple implementation of a shell in C , a DIY shell . It is a part of a special on my website(www.tomorrow.wiki/archives/tag/stupidshell), which demonstrates briefly how a shell works .
 
 
 
@@ -36,6 +36,6 @@ Download the project and use command make to build the executable file stupidshe
 
 BESIDES
 ------------------------------------------------------------------------
-Welcome to the website(www.tomorrow.wiki or www.tomorrow.wiki/archieves/tag/stupidshell) to explore more information about this project.
+Welcome to the website(www.tomorrow.wiki or www.tomorrow.wiki/archives/tag/stupidshell) to explore more information about this project.
 
 Contact with me : 1107150012@qq.com
